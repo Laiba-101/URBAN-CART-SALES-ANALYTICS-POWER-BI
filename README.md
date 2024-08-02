@@ -1,5 +1,5 @@
 # URBAN-CART-SALES-ANALYTICS-POWER-BI
-OBJECTIVE: The purpose of the Urban Cart Sales Dashboard is to provide a comprehensive and interactive visual representation of the company's sales performance.
+**OBJECTIVE:** The purpose of the Urban Cart Sales Dashboard is to provide a comprehensive and interactive visual representation of the company's sales performance.
 
 **Key Highlights and Insights:**
 The profit trends show fluctuations throughout the year, with notable peaks in July, September, and November. There are also periods of low or negative profit, particularly in January and April. The total profit is 37K.
